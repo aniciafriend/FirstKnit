@@ -1,6 +1,6 @@
 ---
 title: "First Knit"
-author: "Your Name"
+author: "Anicia Friend"
 output: 
   html_document:
     number_sections: true
@@ -18,8 +18,7 @@ Where did you attend High School, and did you graduate? Compare english class to
   
 ### my answer     
   
-
-     
+I attended high school at Quartz Hill High school.I also graduated on the principles list in 2022. I like both English and math but math was always the easier one for me. English and write was never really easy for me it took a long time to think about what I want to write about. I think math was easier because I always liked to work with numbers. Number just click with me and unlike English where you write and have to create multiple parts math you have somewhere to start with the numbers and don't have to do much research. Do to me liking math so much I definitely did the best in that subject. 
 
 
 ## Your computer and your and its capability?  
